@@ -1,0 +1,5 @@
+{
+  "name": "Amore Wedding Simulator (For users)",
+  "description": "A standardized wedding quote generator for Amore Wedding Tokyo. Uses AI to extract venue package details and calculates total costs including Amore's custom services.",
+  "requestFramePermissions": []
+}
