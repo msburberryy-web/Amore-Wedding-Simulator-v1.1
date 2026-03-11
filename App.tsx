@@ -66,7 +66,7 @@ const ADDITIONAL_OPTIONS_DATA: CatalogItem[] = [
     isPerGuest: false,
     defaultQty: 1,
     minPrice: 50000,
-    maxPrice: 150000,
+    maxPrice: 70000,
     info: { en: "Includes Batethate set rental, MC, Planning, and Rehearsal.", ja: "バテタ（儀式用セット）レンタル、司会、進行、リハーサルを含みます。", my: "ပတ္တမြားကလပ်ငှားရမ်းခြင်း၊ အခမ်းအနားမှူး၊ စီစဉ်ညွှန်ကြားမှုနှင့် အစမ်းလေ့ကျင့်မှုများ ပါဝင်သည်။" }
   },
   {
@@ -328,7 +328,7 @@ const INITIAL_SERVICES: (Omit<AmoreService, 'name'> & { name: Record<string, str
   { 
     id: '1', 
     name: { en: 'Event Planning Service + MC', ja: 'プランニング & 司会進行', my: 'မင်္ဂလာပွဲ စီစဉ်မှုနှင့် အခမ်းအနားမှူး' },
-    minPrice: 105000, maxPrice: 220000, currentPrice: 105000,
+    minPrice: 35000, maxPrice: 50000, currentPrice: 45000,
     isSelected: false, 
     info: {
       en: "Professional coordination and MC services for the wedding banquet.",
