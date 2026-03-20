@@ -328,7 +328,7 @@ const INITIAL_SERVICES: (Omit<AmoreService, 'name'> & { name: Record<string, str
   { 
     id: '1', 
     name: { en: 'Event Planning Service + MC', ja: 'プランニング & 司会進行', my: 'မင်္ဂလာပွဲ စီစဉ်မှုနှင့် အခမ်းအနားမှူး' },
-    minPrice: 35000, maxPrice: 50000, currentPrice: 45000,
+    minPrice: 105000, maxPrice: 130000, currentPrice: 115000,
     isSelected: false, 
     info: {
       en: "Professional coordination and MC services for the wedding banquet.",
